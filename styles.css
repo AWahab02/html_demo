@@ -1,0 +1,249 @@
+.demo-home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .demo-home .div {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 860px;
+    position: relative;
+    width: 1820px;
+  }
+  
+  .demo-home .overlap-group {
+    background-image: url(./l7-screenshot.jpg);
+    background-size: 100% 100%;
+    height: 810px;
+    left: 365px;
+    position: absolute;
+    top: 25px;
+    width: 1440px;
+  }
+  
+  .demo-home .sign-in {
+    height: 17px;
+    left: 1375px;
+    position: absolute;
+    top: 21px;
+    width: 38px;
+  }
+  
+  .demo-home .overlap {
+    background-image: url(./vector-22.svg);
+    background-size: 100% 100%;
+    height: 38px;
+    left: 1109px;
+    position: absolute;
+    top: 8px;
+    width: 222px;
+  }
+  
+  .demo-home .icon-networing {
+    height: 23px;
+    left: 22px;
+    position: absolute;
+    top: 10px;
+    width: 177px;
+  }
+  
+  .demo-home .vector {
+    height: 516px;
+    left: 855px;
+    position: absolute;
+    top: 135px;
+    width: 351px;
+  }
+  
+  .demo-home .left-nav {
+    align-items: flex-start;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px #00000026;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    left: 25px;
+    overflow: hidden;
+    padding: 15px 20px;
+    position: absolute;
+    top: 25px;
+    width: 301px;
+  }
+  
+  .demo-home .content {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+  }
+  
+  .demo-home .text-wrapper {
+    color: #82c341;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    height: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 109px;
+  }
+  
+  .demo-home .collapse {
+    height: 33.52px;
+    min-width: 34.11px;
+    position: relative;
+  }
+  
+  .demo-home .img {
+    height: 1px;
+    min-width: 261.21px;
+    position: relative;
+  }
+  
+  .demo-home .text-wrapper-2 {
+    color: #333333;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    height: 27.66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 118.01px;
+  }
+  
+  .demo-home .network-and-volume {
+    height: 24.89px;
+    min-width: 211.06px;
+    position: relative;
+  }
+  
+  .demo-home .screen-share {
+    height: 24.89px;
+    min-width: 159.13px;
+    position: relative;
+  }
+  
+  .demo-home .img-2 {
+    height: 24.89px;
+    min-width: 148.16px;
+    position: relative;
+  }
+  
+  .demo-home .widgets {
+    height: 24.89px;
+    min-width: 159.22px;
+    position: relative;
+  }
+  
+  .demo-home .text-wrapper-3 {
+    color: #333333;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    height: 27.66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 116.16px;
+  }
+  
+  .demo-home .whiteboard {
+    height: 24.89px;
+    min-width: 137.18px;
+    position: relative;
+  }
+  
+  .demo-home .OS-share {
+    height: 24.89px;
+    min-width: 184.2px;
+    position: relative;
+  }
+  
+  .demo-home .source {
+    height: 24.89px;
+    min-width: 95.7px;
+    position: relative;
+  }
+  
+  .demo-home .text-wrapper-4 {
+    color: #333333;
+    font-family: "Open Sans-SemiBold", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    height: 27.66px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 176.7px;
+  }
+  
+  .demo-home .camera {
+    height: 24.89px;
+    min-width: 103.38px;
+    position: relative;
+  }
+  
+  .demo-home .hype {
+    height: 24.89px;
+    min-width: 82.94px;
+    position: relative;
+  }
+  
+  .demo-home .e-share {
+    height: 24.89px;
+    min-width: 96.31px;
+    position: relative;
+  }
+  
+  .demo-home .learning-hub {
+    align-items: center;
+    display: flex;
+    gap: 19px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .demo-home .icon-learninghub {
+    height: 18px;
+    min-width: 18px;
+    position: relative;
+  }
+  
+  .demo-home .text-wrapper-5 {
+    color: #333333;
+    font-family: "Open Sans-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24.89px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: 110.02px;
+  }
+  
+  .demo-home .quiz-w-iz {
+    height: 24.89px;
+    min-width: 105.53px;
+    position: relative;
+  }
+  
+  .demo-home .explore {
+    height: 24.89px;
+    min-width: 103.23px;
+    position: relative;
+  }
+  
+  .demo-home .edit {
+    height: 24.89px;
+    min-width: 68.57px;
+    position: relative;
+  }
+  
